@@ -1,2 +1,2 @@
-# EKOS---Echoes-Knowledge-Operating-System
+# EKOS
 This is a repository of Knowledge as a platform through visualization
